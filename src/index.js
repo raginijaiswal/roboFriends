@@ -5,7 +5,7 @@ import Card from './Card';
 // import App from './App';
 import reportWebVitals from './reportWebVitals';
 import 'tachyons';
-import robots from '/robots';
+import robo from '/robo';
 
 ReactDOM.render(
   // <React.StrictMode>
